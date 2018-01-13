@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ExplicitIntent</string>
+    <string name="second_activity_title">Second Title!</string>
+</resources>
